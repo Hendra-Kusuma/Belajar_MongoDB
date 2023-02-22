@@ -1,0 +1,26 @@
+{
+  "name": "belajar_mongodb",
+  "version": "1.0.0",
+  "description": "ini tempat belajar MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hendra-Kusuma/Belajar_MongoDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hendra-Kusuma/Belajar_MongoDB/issues"
+  },
+  "homepage": "https://github.com/Hendra-Kusuma/Belajar_MongoDB#readme",
+  "dependencies": {
+    "config": "^3.3.9",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.2",
+    "nodemon": "^2.0.20"
+  }
+}
